@@ -1,0 +1,78 @@
+h1,h2 {
+    font-family:Arial,Helvetica;
+    font-size: 16;
+    color: rgb(255,100,142)
+    }
+
+    #Test {
+        width: 80%;
+        height: 30%;
+        margin: 0 auto;
+        padding-top: 10px;
+        color: rgb(50,100,142)
+      }
+
+      ul {
+        list-style-type: square;
+        margin: 0;
+        display: inline;
+        padding: 0;
+      }
+
+      .founder {
+        background-color: yellow;
+      }
+
+      .submit{
+        background-color: grey;
+      }
+
+      .contact-us{
+        background-color: bisque;
+      }
+      #main-header {
+        
+        background-color: brown;
+        
+      }
+
+      .education{
+
+        background-color: azure;
+      }
+
+      .project{
+
+        background-color: aquamarine;
+      }
+      #projects {
+      background-color: aliceblue;
+        color: rgb(50,100,142)
+      }
+      .skill{
+
+        background-color:blue;
+      }
+
+      #skills{
+
+        background-color:beige;
+      }
+
+      #convince {
+        height: 500px;
+        background-color: green;
+        text-align: left;
+    
+    }#signUp{
+        height: 300px;
+        background-color:green;
+        font-size: 22;
+        text-align: left;
+        padding: 30px;
+    
+    }
+    #convince h2 {
+        padding-top: 100px;
+        /* background-color: #eee; */
+      }
